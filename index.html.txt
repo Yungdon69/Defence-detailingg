@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+  <meta charset="UTF-8">
+  <title>Defence Detailing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <h1>Defence Detailing</h1>
+    <p>Professional Car Detailing You Can Trust</p>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <h2>Our Services</h2>
+      <div class="gallery">
+  <img src="images/car1.jpg" alt="Clean detailed car" class="service-image">
+  <img src="images/car2.jpg" alt="Car interior detailing" class="service-image">
+  <img src="images/car3.jpg" alt="Car exterior detailing" class="service-image">
+</div>
+
+      <ul>
+        <li>Exterior Wash & Wax</li>
+        <li>Interior Deep Clean</li>
+        <li>Paint Protection</li>
+        <li>Full Detail Packages</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Contact Us</h2>
+      <p>Email: defencedetailing@email.com</p>
+      <p>Phone: 555-123-4567</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Defence Detailing</p>
+  </footer>
+
+</body>
+</html>
